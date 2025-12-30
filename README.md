@@ -48,7 +48,7 @@
 
 ---
 
-## 🧠 시스템 흐름
+## 📢 시스템 흐름
 
 1. 사용자가 출발지와 도착지를 입력  
 2. Google Maps API를 통해 이동 경로 계산  
@@ -65,7 +65,7 @@
 ---
 
 ## 📂 프로젝트 구조
-
+```bash
 FLASK_PROJECT/
 ┣ static/
 ┃ ┣ css/
@@ -75,7 +75,7 @@ FLASK_PROJECT/
 ┣ app.py
 ┣ requirements.txt
 ┗ README.md
-
+```
 ---
 ## ⚙ 실행 방법
 
@@ -91,4 +91,4 @@ pip install -r requirements.txt
 
 # 서버 실행
 python app.py
-'''
+```
