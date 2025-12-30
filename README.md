@@ -66,7 +66,7 @@
 
 ## 📂 프로젝트 구조
 
-```bash
+
 FLASK_PROJECT/
 ┣ static/
 ┃ ┣ css/
@@ -80,7 +80,7 @@ FLASK_PROJECT/
 ---
 ## ⚙ 실행 방법
 
-
+```bash
 # 가상환경 생성
 python -m venv venv
 
