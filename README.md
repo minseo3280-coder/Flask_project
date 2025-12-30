@@ -60,7 +60,7 @@
 
 ## 📊 프로젝트 발표 자료
 
-🔗 [👉 **Google Slides 발표 자료 바로가기**  ](https://docs.google.com/presentation/d/e/2PACX-1vTkiAo32hMr4zrigNEaB6z2tsfOwmbTQcUz23JqTGH18wYwzV1yfw0ZCI4Hw8V8hw/pubembed?start=false&loop=false&delayms=3000)
+🔗 [**Google Slides 발표 자료 바로가기** ](https://docs.google.com/presentation/d/e/2PACX-1vTkiAo32hMr4zrigNEaB6z2tsfOwmbTQcUz23JqTGH18wYwzV1yfw0ZCI4Hw8V8hw/pubembed?start=false&loop=false&delayms=3000)
 
 ---
 
