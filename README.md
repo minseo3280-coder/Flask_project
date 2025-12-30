@@ -66,7 +66,7 @@
 
 ## 📂 프로젝트 구조
 
-FLASK_PROJECT/
+'''FLASK_PROJECT/
 ┣ static/
 ┃ ┣ css/
 ┃ ┣ js/
