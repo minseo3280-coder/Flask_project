@@ -44,7 +44,7 @@
 - 🛣 **경로상 휴게소 자동 추출**
 - 🍜 **휴게소별 맛집 정보 제공**
 - ⛽ **편의시설(주유소, EV 충전소 등) 아이콘 표시**
-- ⭐ **사용자 친화적인 지도 기반 UI**
+- ⭐ **사용자 친화적인 카카오 API를 활용한 지도 기반 UI**
 
 ---
 
@@ -62,8 +62,6 @@
 
 👉 **Google Slides 발표 자료 바로가기**  
 🔗 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkiAo32hMr4zrigNEaB6z2tsfOwmbTQcUz23JqTGH18wYwzV1yfw0ZCI4Hw8V8hw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-*(GitHub README에서는 iframe 미지원으로 링크 형태로 제공됩니다.)*
 
 ---
 
