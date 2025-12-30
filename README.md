@@ -66,6 +66,17 @@
 
 ## 📂 프로젝트 구조
 
+FLASK_PROJECT/
+┣ static/
+┃ ┣ css/
+┃ ┣ js/
+┣ templates/
+┃ ┗ index.html
+┣ app.py
+┣ requirements.txt
+┗ README.md
+
+---
 ## ⚙ 실행 방법
 
 ```bash
