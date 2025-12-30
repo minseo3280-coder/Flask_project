@@ -76,11 +76,11 @@ FLASK_PROJECT/
 ┣ app.py
 ┣ requirements.txt
 ┗ README.md
-'''
+
 ---
 ## ⚙ 실행 방법
 
-```bash
+
 # 가상환경 생성
 python -m venv venv
 
