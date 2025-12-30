@@ -110,6 +110,6 @@ python app.py
 
   ---
   
-  ## 🎬 서비스 시연 영상
-  https://github.com/minseo3280-coder/Flask_project/issues/1#issue-3769423576
+## 🎬 서비스 시연 영상
+https://github.com/minseo3280-coder/Flask_project/issues/1#issue-3769423576
 
