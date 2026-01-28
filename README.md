@@ -24,7 +24,7 @@
 
 ## 📊 프로젝트 발표 자료
 
-💛 **[Google Slides 발표 자료]([flask_highway/(Flask 프로젝트) 전국 휴게소 맛집 및 여정 정보 큐레이션 시스템.pdf](https://github.com/minseo3280-coder/Flask_project/blob/af480ca97f2f28af63e189dbe01762c89d560fa0/flask_highway/(Flask%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20%EC%A0%84%EA%B5%AD%20%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%A7%9B%EC%A7%91%20%EB%B0%8F%20%EC%97%AC%EC%A0%95%20%EC%A0%95%EB%B3%B4%20%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf))**
+💛 **[Google Slides 발표 자료](전국 휴게소 맛집 및 여정 정보 큐레이션 시스템.pdf](https://github.com/minseo3280-coder/Flask_project/blob/af480ca97f2f28af63e189dbe01762c89d560fa0/flask_highway/(Flask%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)%20%EC%A0%84%EA%B5%AD%20%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%A7%9B%EC%A7%91%20%EB%B0%8F%20%EC%97%AC%EC%A0%95%20%EC%A0%95%EB%B3%B4%20%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf))**
 
 ---
 
